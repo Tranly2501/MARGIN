@@ -1,0 +1,22 @@
+/* .conten{
+    background-color:  rgb(177, 126, 58);
+}
+.avatar{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 1px solid rgb(125, 1, 1);
+    margin-left: -70px;
+}
+.avatar:first-child{
+    margin-left: 0;
+} */
+
+.box {
+    width: 200px;
+    height: 200px;
+    border: 10px solid orangered;
+}
+.box1 {
+    margin-bottom: 50px;
+}
